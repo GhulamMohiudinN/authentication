@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/GhulamMohiudinN/authentication.git/static/css/main.f855e6bc.css",
+    "main.js": "/GhulamMohiudinN/authentication.git/static/js/main.518b9262.js",
+    "static/js/453.9bf74f29.chunk.js": "/GhulamMohiudinN/authentication.git/static/js/453.9bf74f29.chunk.js",
+    "index.html": "/GhulamMohiudinN/authentication.git/index.html",
+    "main.f855e6bc.css.map": "/GhulamMohiudinN/authentication.git/static/css/main.f855e6bc.css.map",
+    "main.518b9262.js.map": "/GhulamMohiudinN/authentication.git/static/js/main.518b9262.js.map",
+    "453.9bf74f29.chunk.js.map": "/GhulamMohiudinN/authentication.git/static/js/453.9bf74f29.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.518b9262.js"
+  ]
+}
