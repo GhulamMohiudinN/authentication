@@ -6,7 +6,7 @@ import useAuth from "../hooks/useAuth";
 const Dashboard = () => {
   const [user, setUser] = useState(null);
   const navigate = useNavigate();
-  useAuth();
+  // useAuth();
 
   useEffect(() => {
     const fetchUser = async () => {
